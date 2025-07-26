@@ -22,10 +22,7 @@ Primuslabs Send BOT
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/Primuslabs-BOT.git
-   ```
-   ```bash
-   cd Primuslabs-BOT
+   git clone https://github.com/airdropbomb/Primuslabs.git && cd Primuslabs
    ```
 
 2. **Install Requirements:**
