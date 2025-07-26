@@ -11,8 +11,8 @@ wib = pytz.timezone('Asia/Jakarta')
 
 class Primuslabs:
     def __init__(self) -> None:
-        self.RPC_URL = "https://api.zan.top/node/v1/pharos/testnet/78595778d1434ec5ae2f39a08fbf3314"
-        self.SEND_ROUTER_ADDRESS = "0xd17512b7ec12880bd94eca9d774089ff89805f02"
+        self.RPC_URL = "https://testnet.dplabs-internal.com/"
+        self.SEND_ROUTER_ADDRESS = "0xD17512B7EC12880Bd94Eca9d774089fF89805F02"
         self.PRIMUSLABS_CONTRACT_ABI = [
             {
                 "type": "function",
